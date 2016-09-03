@@ -6,8 +6,8 @@
 
 ## Description
 This is an exercise for array manipulation. In the DOM and Console, you'll see:<br/>
-1. Planets Array with capitalized 1st letter.
-2. Planets Array filtered for just names containing the "e" letter.
+1. Planets Array with capitalized 1st letter. <br/>
+2. Planets Array filtered for just names containing the "e" letter. <br/>
 3. A sentence built from a different Words Array using the reduce() function.
 <br/>
 
